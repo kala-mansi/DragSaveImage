@@ -1,0 +1,2 @@
+# DragSaveImage
+从浏览器直接拖动图片放到winform窗口则自动保存图片
